@@ -1,39 +1,55 @@
+<div align="center">
+
 # Okay, let’s do this one last time, yeah?
 
-My name is **Surafel Mengistu**.
+<br>
 
-I wrote my first line of code when i was in collage, and for like two years I’ve been building things that actually help fix problems.
+### My name is **Surafel Mengistu**.
 
-I think you know the rest…
+<br>
 
-If not read along
+I wrote my first line of code when i was in collage,  
+and for like two years I’ve been building things  
+that actually help fix problems.
 
-I never thought I’d be able to do any of this stuff.
+<br>
 
-But I did.
+I think you know the rest…  
+**If not, read along.**
 
-Anyone can code.
+<br>
 
-But few can fix problems,
+I never thought I’d be able to do any of this stuff.  
+**But I did.**
 
-You can too.
+<br>
 
-If you didn’t know that before, I hope you do now.
+Anyone can code.  
+But few can fix problems.  
+**You can too.**
 
+<br>
 
-🌐 **[suradev.com](https://suradev.com)** · 📍 Earth · 💼 Open to new opportunities
+If you didn’t know that before,  
+I hope you do now.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-suradev.com-blue?style=for-the-badge)](https://suradev.com)
+[![Location](https://img.shields.io/badge/📍_Earth-Open_to_opportunities-green?style=for-the-badge)](#)
+[![Open to Work](https://img.shields.io/badge/💼_Open_to_new_opportunities-orange?style=for-the-badge)](#)
+
+</div>
 
 ---
 
 ### 🚀 About Me
 
-I'm a full-stack developer with 2+ years of experience delivering production systems from high conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.
+I'm a full-stack developer with **2+ years** of experience delivering production systems — from high-conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.
 
-I care deeply about 
-**performance**, 
-**clean architecture**,
-**maintainable code** 
-that solves real business problems. Currently building my own self-project to support **Hospital SafeCare**.
+I care deeply about **performance**, **clean architecture**, and **maintainable code** that solves real business problems.  
+
+Currently working as a **Webflow Developer at Perkk** while building my own self-project to support **Hospital SafeCare**.
 
 I'm always open to new possibilities and challenges, and genuinely excited to keep learning and growing in tech.
 
@@ -41,7 +57,7 @@ I'm always open to new possibilities and challenges, and genuinely excited to ke
 
 ### 🏗️ How I Approach Software Architecture & Projects
 
-I treat every project as a long-term system, not a short-term feature dump.
+I treat every project as a **long-term system**, not a short-term feature dump.
 
 **Core principles I follow:**
 
@@ -52,13 +68,14 @@ I treat every project as a long-term system, not a short-term feature dump.
 
 **Typical process:**
 
-1. Deep understanding of the domain and constraints
-2. Identify core business rules and boundaries
-3. Design modular, testable architecture
-4. Deliver in thin vertical slices with continuous feedback
-5. Refactor ruthlessly while keeping the system running
+1. Deep understanding of the domain and constraints  
+2. Identify core business rules and boundaries  
+3. Design modular, testable architecture  
+4. Deliver in thin vertical slices with continuous feedback  
+5. Refactor ruthlessly while keeping the system running  
 
-Whether it’s a simple React frontend or a multi-module ERP, the goal is the same: systems that are reliable, understandable, and ready to evolve.
+Whether it’s a simple React frontend or a multi-module ERP, the goal is the same:  
+**systems that are reliable, understandable, and ready to evolve.**
 
 ---
 
@@ -119,9 +136,13 @@ Whether it’s a simple React frontend or a multi-module ERP, the goal is the sa
 
 ### 📈 GitHub Stats
 
+<div align="center">
+
 ![Surafel's GitHub stats](https://github-readme-stats.vercel.app/api?username=surafel-uzumaki&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surafel-uzumaki&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -133,8 +154,16 @@ Whether it’s a simple React frontend or a multi-module ERP, the goal is the sa
 
 ---
 
-**"It is in this pursuit — where creativity meets purpose — that true potential is realized."**
+<div align="center">
 
-Whether you have a project in mind or just want to chat about tech, I'd love to hear from you!
+### **"It is in this pursuit — where creativity meets purpose — that true potential is realized."**
 
-My Name is Surafel Mengistu and I’m a Developer and an Enginner.
+<br>
+
+**Whether you have a project in mind or just want to chat about tech, I'd love to hear from you!**
+
+</div>
+
+My Name is Surafel Mengistu and I'm a software developer/Enginner
+
+
