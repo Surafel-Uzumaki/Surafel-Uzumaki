@@ -42,7 +42,7 @@ I'm a full-stack developer with **2+ years** of experience delivering production
 
 I care deeply about **performance**, **clean architecture**, and **maintainable code** that solves real business problems.  
 
-Currently working as a **Webflow Developer at Perkk** while building my own self-project to support **Hospital SafeCare**.
+Currently building my own self-project to support **Hospital SafeCare**.
 
 I'm always open to new possibilities and challenges, and genuinely excited to keep learning and growing in tech.
 
