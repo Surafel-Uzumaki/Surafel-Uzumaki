@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Okay, let’s do this one last time, yeah?
 
