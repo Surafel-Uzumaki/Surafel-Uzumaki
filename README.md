@@ -1,39 +1,35 @@
 # Okay, let’s do this one last time, yeah?
 
-### My name is **Surafel Mengistu**.
+My name is **Surafel Mengistu**.
 
-I wrote my first line of code when i was in collage,  
-and for like two years I’ve been building things  
-that actually help fix problems.
+I wrote my first line of code when i was in collage, and for like two years I’ve been building things that actually help fix problems.
 
-I think you know the rest…  
-**If not, read along.**
+I think you know the rest…
 
-I never thought I’d be able to do any of this stuff.  
-**But I did.**
+If not read along
 
-Anyone can code.  
-But few can fix problems.  
-**You can too.**
+I never thought I’d be able to do any of this stuff.
 
-If you didn’t know that before,  
-I hope you do now. 
+But I did.
 
-<br>
+Anyone can code.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-suradev.com-blue?style=for-the-badge)](https://suradev.com)
-[![Location](https://img.shields.io/badge/📍_Earth-Open_to_opportunities-green?style=for-the-badge)](#)
-[![Open to Work](https://img.shields.io/badge/💼_Open_to_new_opportunities-orange?style=for-the-badge)](#)
+But few can fix problems,
+
+You can too.
+
+If you didn’t know that before, I hope you do now.
+
+
+🌐 **[suradev.com](https://suradev.com)** · 📍 Earth · 💼 Open to new opportunities
 
 ---
 
 ### 🚀 About Me
 
-I'm a full-stack developer with **2+ years** of experience delivering production systems — from high-conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.
+I'm a full-stack developer with 2+ years of experience delivering production systems — from high-conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.
 
-I care deeply about **performance**, **clean architecture**, and **maintainable code** that solves real business problems.  
-
-Currently working as a **Webflow Developer at Perkk** while building my own self-project to support **Hospital SafeCare**.
+I care deeply about **performance**, **clean architecture**, and **maintainable code** that solves real business problems. Currently working as a **Webflow Developer at Perkk** while building my own self-project to support **Hospital SafeCare**.
 
 I'm always open to new possibilities and challenges, and genuinely excited to keep learning and growing in tech.
 
@@ -41,7 +37,7 @@ I'm always open to new possibilities and challenges, and genuinely excited to ke
 
 ### 🏗️ How I Approach Software Architecture & Projects
 
-I treat every project as a **long-term system**, not a short-term feature dump.
+I treat every project as a long-term system, not a short-term feature dump.
 
 **Core principles I follow:**
 
@@ -52,14 +48,13 @@ I treat every project as a **long-term system**, not a short-term feature dump.
 
 **Typical process:**
 
-1. Deep understanding of the domain and constraints  
-2. Identify core business rules and boundaries  
-3. Design modular, testable architecture  
-4. Deliver in thin vertical slices with continuous feedback  
-5. Refactor ruthlessly while keeping the system running  
+1. Deep understanding of the domain and constraints
+2. Identify core business rules and boundaries
+3. Design modular, testable architecture
+4. Deliver in thin vertical slices with continuous feedback
+5. Refactor ruthlessly while keeping the system running
 
-Whether it’s a simple React frontend or a multi-module ERP, the goal is the same:  
-**systems that are reliable, understandable, and ready to evolve.**
+Whether it’s a simple React frontend or a multi-module ERP, the goal is the same: systems that are reliable, understandable, and ready to evolve.
 
 ---
 
@@ -134,10 +129,8 @@ Whether it’s a simple React frontend or a multi-module ERP, the goal is the sa
 
 ---
 
-### **"It is in this pursuit — where creativity meets purpose — that true potential is realized."**
+**"It is in this pursuit — where creativity meets purpose — that true potential is realized."**
 
-**Whether you have a project in mind or just want to chat about tech, I'd love to hear from you!**
+Whether you have a project in mind or just want to chat about tech, I'd love to hear from you!
 
-
-And I’m not the only one.  
-**Not by a long shot.**
+My Name is Surafel Mengistu and I’m a Developer and an Enginner.
