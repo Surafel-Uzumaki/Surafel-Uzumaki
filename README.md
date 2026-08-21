@@ -15,13 +15,15 @@ I think you know the rest…
 
 **If not, read along.**
 <br>
-I never thought I’d be able to do any of this stuff.  
+I never thought I’d be able to do any of this stuff.
+
 **But I did.**
 <br>
 Anyone can code.  
 But few can fix problems.  
 **You can too.**
 <br>
+
 If you didn’t know that before,  
 I hope you do now.
 <br>
