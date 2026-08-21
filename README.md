@@ -1,38 +1,24 @@
 <div>
-
 # Okay, let’s do this one last time, yeah?
-
 <br>
-
 ### My name is **Surafel Mengistu**.
-
 <br>
-
 I wrote my first line of code when i was in collage,  
 and for like two years I’ve been building things  
 that actually help fix problems.
-
 <br>
-
 I think you know the rest…  
 **If not, read along.**
-
 <br>
-
 I never thought I’d be able to do any of this stuff.  
 **But I did.**
-
 <br>
-
 Anyone can code.  
 But few can fix problems.  
 **You can too.**
-
 <br>
-
 If you didn’t know that before,  
 I hope you do now.
-
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-suradev.com-blue?style=for-the-badge)](https://suradev.com)
@@ -162,8 +148,10 @@ Whether it’s a simple React frontend or a multi-module ERP, the goal is the sa
 
 **Whether you have a project in mind or just want to chat about tech, I'd love to hear from you!**
 
+
+I'm Surafel Mengistu a software developer and an Enginner
 </div>
 
-My Name is Surafel Mengistu and I'm a software developer/Enginner
+
 
 
