@@ -27,9 +27,13 @@ If you didn’t know that before, I hope you do now.
 
 ### 🚀 About Me
 
-I'm a full-stack developer with 2+ years of experience delivering production systems — from high-conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.
+I'm a full-stack developer with 2+ years of experience delivering production systems from high conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.
 
-I care deeply about **performance**, **clean architecture**, and **maintainable code** that solves real business problems. Currently building my own self-project to support **Hospital SafeCare**.
+I care deeply about 
+**performance**, 
+**clean architecture**,
+**maintainable code** 
+that solves real business problems. Currently building my own self-project to support **Hospital SafeCare**.
 
 I'm always open to new possibilities and challenges, and genuinely excited to keep learning and growing in tech.
 
