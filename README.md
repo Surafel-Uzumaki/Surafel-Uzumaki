@@ -6,11 +6,12 @@
 
 ### My name is **Surafel Mengistu**.
 <br>
-I wrote my first line of code when i was in collage,  
+I wrote my first line of code when i was in collage,
 and for like two years I’ve been building things  
 that actually help fix problems.
 <br>
 I think you know the rest…  
+
 **If not, read along.**
 <br>
 I never thought I’d be able to do any of this stuff.  
