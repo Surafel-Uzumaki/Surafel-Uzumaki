@@ -1,24 +1,24 @@
 # Okay, let’s do this one last time, yeah?
 
-My name is **Surafel Mengistu**.  
+My name is **Surafel Mengistu**.
 
-I wrote my first line of code when i was in collage, and for like two years I’ve been building things that actually help fix problems.  
+I wrote my first line of code when i was in collage, and for like two years I’ve been building things that actually help fix problems.
+
 I think you know the rest…
 
 If not read along
 
-I never thought I’d be able to do any of this stuff.  
-But I did.  
+I never thought I’d be able to do any of this stuff.
 
-Anyone can code.  
+But I did.
+
+Anyone can code.
+
 But few can fix problems,
+
 You can too.
 
 If you didn’t know that before, I hope you do now.
-
-Because I’m a developer.  
-And I’m not the only one.  
-Not by a long shot.
 
 
 🌐 **[suradev.com](https://suradev.com)** · 📍 Earth · 💼 Open to new opportunities
@@ -27,7 +27,7 @@ Not by a long shot.
 
 ### 🚀 About Me
 
-I'm a full-stack developer with 2+ years of experience delivering production systems — from high-conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.  
+I'm a full-stack developer with 2+ years of experience delivering production systems — from high-conversion marketing sites and e-commerce platforms to complex ERP and healthcare systems.
 
 I care deeply about **performance**, **clean architecture**, and **maintainable code** that solves real business problems. Currently working as a **Webflow Developer at Perkk** while building my own self-project to support **Hospital SafeCare**.
 
@@ -40,12 +40,14 @@ I'm always open to new possibilities and challenges, and genuinely excited to ke
 I treat every project as a long-term system, not a short-term feature dump.
 
 **Core principles I follow:**
+
 - **Clean Architecture / Hexagonal style** — clear separation of domain, application, and infrastructure layers
 - **Performance first** — measure early, optimize deliberately, avoid premature complexity
 - **Real-world pragmatism** — architecture must serve the business and the team, not just look elegant on a diagram
 - **Maintainability & clarity** — code that future me (or another developer) can understand and extend without fear
 
 **Typical process:**
+
 1. Deep understanding of the domain and constraints
 2. Identify core business rules and boundaries
 3. Design modular, testable architecture
@@ -62,7 +64,7 @@ Whether it’s a simple React frontend or a multi-module ERP, the goal is the sa
 `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL`
 
 **Frontend Frameworks & Libraries**  
-`React.js` `Next.js` `Redux` `Tailwind CSS` `Webflow`
+`React.js` `Next.js` `Redux` `Zustand` `Context API` `Axios` `Tailwind CSS` `shadcn/ui` `Aceternity UI` `Webflow` `Responsive Design`
 
 **Backend Frameworks & Runtime**  
 `Node.js` `Express.js` `GraphQL` `Socket.IO`
@@ -130,3 +132,7 @@ Whether it’s a simple React frontend or a multi-module ERP, the goal is the sa
 **"It is in this pursuit — where creativity meets purpose — that true potential is realized."**
 
 Whether you have a project in mind or just want to chat about tech, I'd love to hear from you!
+
+And I’m not the only one.
+
+Not by a long shot.
